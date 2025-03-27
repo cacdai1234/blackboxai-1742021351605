@@ -1,0 +1,5 @@
+discord
+sympy
+discord-py
+wikipedia
+requests
